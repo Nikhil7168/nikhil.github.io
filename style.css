@@ -1,0 +1,49 @@
+
+
+
+.container{
+    height: 95vh;
+    
+    
+    background: url(./OIPEVTSIYDA.jpg); background-repeat: no-repeat; background-size: cover;
+}
+.content{
+    position: absolute;
+    top: 45%;
+    left: 40%;
+    text-align: center;
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 30px;
+}
+@media only screen and (max-width:320px) {  body {
+
+    width: 320px;
+
+} }
+
+@media only screen and (max-width:481px) {   body {
+
+     width: 481px;
+
+ } }
+
+@media only screen and(max-width:768px) {   body {
+
+     width: 641px;
+     background-color: skyblue;
+
+ } }
+
+@media only screen and (max-width:961px) {   body {
+
+     width: 961px;
+
+ } }
+
+@media only screen and (max-width:1000px) {  body {
+
+     width: 1000px;
+     
+
+ } }
